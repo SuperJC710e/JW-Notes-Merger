@@ -27,7 +27,7 @@ const UploadPage = () => {
         formData.append('main', main);
         formData.append('toMerge', toMerge);
         const { data } = await axios.post(
-          `https://notes-merger-server.leomaiajr.dev/merge-db`,
+          `http://localhost:8080/merge-db`,
           formData,
           {
             responseType: 'blob',
