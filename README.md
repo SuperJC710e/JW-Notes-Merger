@@ -1,6 +1,6 @@
 # JW Notes Merger
 
-App developed with [Vite](https://vite.net) and [React](https://reactjs.org) for merging JW Library's notes, bookmarks and markup.
+App developed with [Vite](https://vitejs.dev) and [React](https://reactjs.org) for merging JW Library's notes, bookmarks and markup.
 
 ## Pre-requisites
 
